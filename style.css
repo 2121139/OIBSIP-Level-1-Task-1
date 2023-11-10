@@ -1,0 +1,11 @@
+.col-md-4{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210915/pngtree-geometric-pattern-white-gold-minimalist-creative-background-image_879782.jpg');
+    background-repeat: no-repeat;
+    background-size:150% ;
+    
+}
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+}
